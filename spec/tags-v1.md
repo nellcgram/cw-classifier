@@ -34,7 +34,9 @@ rather than guessing.
 **Does not qualify:** Assault referenced in backstory, disclosed in
 dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
+depicted from referenced, and that distinction is load-bearing for
+this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -46,7 +48,9 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence.' Or no sexual assault mentioned at all.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
+depicted from referenced, and that distinction is load-bearing for
+this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -58,7 +62,9 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Does not qualify:** Mention of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
+depicted from referenced, and that distinction is load-bearing for
+this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -70,7 +76,9 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Does not qualify:** Self-harm described on-page, or no self-harm described at all.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
+depicted from referenced, and that distinction is load-bearing for
+this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 

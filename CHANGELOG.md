@@ -17,6 +17,8 @@
   after review-site list was added).
 - Typo fixes: "Menion" → "Mention," stray quote mark.
 - Added on-page vs referenced tag interaction rule to explain choices.
+- Changed definition of graphic violence to distinguish any from graphic.
+- Added example sentences for every tag category.
 
 ## 2026-09-08
 - Initial tag list, 11 categories.

@@ -62,7 +62,7 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Example:** She pressed the blade to her arm.
+**Example:** "She pressed the blade to her arm."
 
 ## referenced-self-harm
 

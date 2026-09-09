@@ -84,7 +84,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 ## graphic-violence
 
-**Definition:** Graphic violence (torture, character's extreme physical pain, broken bones, physical bodily harm) depicted in scene, as it happens, from any point of view.
+**Definition:** Violence depicted in scene, as it happens, with physical
+detail (described injury, pain, or  method) instead of stated as a fact. Violence without detail example: "He hit her" Graphic example: "His fist caught her jaw and she felt the tooth crack." Graphic includes torture, extreme physical pain, broken bones, and similar bodily harm when described with that level of detail.
 
 **Does not qualify:** Graphic violence mentioned in backstory, disclosed in dialogue, or implied by scene break.
 

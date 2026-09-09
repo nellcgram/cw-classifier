@@ -1,4 +1,5 @@
 # Content warning tags, v1
+Last updated: 2026-09-09_
 
 Each tag has: a definition, a boundary case that does NOT qualify,
 and what evidence settles it.
@@ -6,6 +7,8 @@ and what evidence settles it.
 ## Tag interaction rules
 
 Most tags can co-occur in one scene. Tags for explicit-sex and on-page-sexual-violence are the exception. See below.
+
+For tags without an on-page versus referenced category, the design decision is for violence, harm, and loss whether on page or referenced. This is made for a reader specifically sensitive to nuance in instances of sexual violence.
 
 **explicit-sex and on-page-sexual-violence** are not the same axis and do not apply to the same scene:
 

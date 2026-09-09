@@ -31,7 +31,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 ## referenced-sexual-violence
 
-**Definition:** A sexual assault referenced as happening in the past to the main character.
+**Definition:** A sexual assault referenced as happening in the past to any character.
 
 **Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence.'  Or no sexual assault mentioned at all.
 

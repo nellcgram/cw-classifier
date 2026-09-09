@@ -105,6 +105,8 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Does not qualify:** Suicidal ideation, meaning thoughts of suicide. Suicide or suicidal ideation mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
+**Qualifying notes** Ideation is excluded from this tag because interior narration is less extreme than a plan or attempt being depicted, and conflating the two would make the tag fire far more often than the intensity it's meant to flag. If ideation needs its own signal later, it should be a separate tag rather than folded into this one.
+
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine

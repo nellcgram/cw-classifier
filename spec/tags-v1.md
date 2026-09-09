@@ -18,14 +18,14 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence`.
 
 **Definition:** A sexual assault referenced as happening in the past to the main character.
 
-**Does not qualify:** A sexual assault referenced as happening to a minor character.
+**Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence'.  Or no sexual assault mentioned at all.
 
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
 ## on-page-self-harm
-**Definition:** Self-harm of any kind (cutting, scratching, burning, pinching, et cetera) depicted in scene, as it happens, from any poinnt of view.
+**Definition:** Self-harm of any kind (cutting, scratching, burning, pinching, et cetera) depicted in scene, as it happens, from any point of view.
 
 **Does not qualify:** Menion of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
 
@@ -33,85 +33,81 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence`.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+ ## referenced-self-harm
+**Definition:** Self-harm of any kind (cutting, scratching, burning, pinching, et cetera) mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
- / referenced-self-harm
+**Does not qualify:** Self-harm described on-page, or no self-harm described at all.
 
-**Definition:** 
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Does not qualify:** 
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Settled by:**
+## child-harm
 
-**Confidence markers:** 
-child-harm
+**Definition:** Any physical abuse of a child depicted in scene, as it happens, from any point of view.
 
-**Definition:** 
+**Does not qualify:** Yelling that is not physical. Physical abuse mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Does not qualify:** 
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Settled by:**
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Confidence markers:** 
-animal-harm
+## animal-harm
 
-**Definition:** 
+**Definition:** Physical harm of an animal depicted in scene, as it happens, from any point of view.
 
-**Does not qualify:** 
+**Does not qualify:** Yelling at the animal. Physical harm of animal mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:**
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Confidence markers:** 
-graphic-violence
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Definition:** 
+## graphic-violence
 
-**Does not qualify:** 
+**Definition:** Graphic violence depicted in scene, as it happens, from any point of view.
 
-**Settled by:**
+**Does not qualify:** Graphic violence mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Confidence markers:** 
-suicide
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Definition:** 
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Does not qualify:** 
+## suicide
 
-**Settled by:**
+**Definition:** Suicide depicted in scene, as it happens, from any point of view.
 
-**Confidence markers:** 
-eating-disorder
+**Does not qualify:** Suicide mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Definition:** 
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Does not qualify:** 
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Settled by:**
+## eating-disorder
 
-**Confidence markers:** 
-pregnancy-loss
+**Definition:** Eating disordered behaviors (starving self, counting calories, weighing self, bingeing, throwing up food) depicted in scene, as it happens, from any point of view.
 
-**Definition:** 
+**Does not qualify:** Eating disorder mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Does not qualify:** 
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Settled by:**
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-**Confidence markers:** 
-explicit-sex
+## pregnancy-loss
 
-**Definition:** 
+**Definition:** Pregnancy loss (miscarriage or stillbirth) depicted in scene, as it happens, from any point of view.
 
-**Does not qualify:** 
+**Does not qualify:** Pregnancy loss (either miscarriage or stillbirth) mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:**
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
-**Confidence markers:** 
+**Confidence markers:** confirmed / reported / not found / cannot determine
 
-closed-door sex
-**Definition:** 
+## explicit-sex
 
-**Does not qualify:** 
+**Definition:** Oral, anal, or vaginal sex or other sexual activity depicted in scene, as it happens, from any point of view.
 
-**Settled by:**
+**Does not qualify:** Sex referenced in backstory, disclosed in dialogue, or implied by a scene break.
 
-**Confidence markers:** 
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+
+**Confidence markers:** confirmed / reported / not found / cannot determine

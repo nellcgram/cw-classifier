@@ -23,7 +23,7 @@ rather than guessing.
 **Definition:** A sexual assault is depicted in scene, as it happens, from any point of view.
 
 **Does not qualify:** Assault referenced in backstory, disclosed in
-dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
+dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
@@ -33,7 +33,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Definition:** A sexual assault referenced as happening in the past to any character.
 
-**Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence.'  Or no sexual assault mentioned at all.
+**Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence.' Or no sexual assault mentioned at all.
 
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
@@ -43,7 +43,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Definition:** Self-harm of any kind (cutting, scratching, burning, pinching, et cetera) depicted in scene, as it happens, from any point of view.
 
-**Does not qualify:** Menion of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
+**Does not qualify:** Mention of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
 
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 

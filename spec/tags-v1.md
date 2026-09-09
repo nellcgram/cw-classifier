@@ -5,7 +5,7 @@ and what evidence settles it.
 
 ## Tag interaction rules
 
-RMost tags can co-occur in one scene. Tags for explicit-sex and on-page-sexual-violence are the exception. See below.
+Most tags can co-occur in one scene. Tags for explicit-sex and on-page-sexual-violence are the exception. See below.
 
 **explicit-sex and on-page-sexual-violence** are not the same axis and do not apply to the same scene:
 

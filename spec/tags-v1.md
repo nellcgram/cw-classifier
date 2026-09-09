@@ -20,8 +20,7 @@ For tags without an on-page versus referenced category, the design decision is f
 
 - Consensual sexual activity, depicted → explicit-sex only
 - Non-consensual sexual activity, depicted → on-page-sexual-violence.
-  Do not tag explicit-sex if the on-page content is non-consensual.
-- The dividing question is consent along with the act. 
+- Do not tag explicit-sex if the on-page content is non-consensual. The dividing question is consent along with the act. 
 
 **Unresolved:** what if consent is ambiguous or contested within the
 scene itself? Not yet decided. Flag any book where this comes up
@@ -34,9 +33,7 @@ rather than guessing.
 **Does not qualify:** Assault referenced in backstory, disclosed in
 dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
-**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
-depicted from referenced, and that distinction is load-bearing for
-this tag.
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced, and that distinction is load-bearing for this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -48,9 +45,7 @@ this tag.
 
 **Does not qualify:** A sexual described assault on-page. That is 'on-page sexual-violence.' Or no sexual assault mentioned at all.
 
-**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
-depicted from referenced, and that distinction is load-bearing for
-this tag.
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced, and that distinction is load-bearing for this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -62,9 +57,7 @@ this tag.
 
 **Does not qualify:** Mention of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
 
-**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
-depicted from referenced, and that distinction is load-bearing for
-this tag.
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced, and that distinction is load-bearing for this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -76,9 +69,7 @@ this tag.
 
 **Does not qualify:** Self-harm described on-page, or no self-harm described at all.
 
-**Settled by:** **Settled by:** The book text. Review-site mentions do not distinguish
-depicted from referenced, and that distinction is load-bearing for
-this tag.
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced, and that distinction is load-bearing for this tag.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -90,7 +81,7 @@ this tag.
 
 **Does not qualify:** Yelling that is not physical. Physical abuse mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -102,7 +93,7 @@ this tag.
 
 **Does not qualify:** Yelling at the animal. Physical harm of animal mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -115,7 +106,7 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Does not qualify:** Graphic violence mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -129,7 +120,7 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Qualifying notes** Ideation is excluded from this tag because interior narration is less extreme than a plan or attempt being depicted, and conflating the two would make the tag fire far more often than the intensity it's meant to flag. If ideation needs its own signal later, it should be a separate tag rather than folded into this one.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -141,7 +132,7 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Does not qualify:** Eating disorder mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -153,7 +144,7 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Does not qualify:** Pregnancy loss (either miscarriage or stillbirth) mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -165,7 +156,7 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Does not qualify:** Sex referenced in backstory, disclosed in dialogue, or implied by a scene break.
 
-**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
+**Settled by:** The book text, or a specific review-site mention naming this category by name (not a general "dark themes" or "trigger warning" tag). This tag has no on-page/referenced split, so presence alone is what review sites can reliably report.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 

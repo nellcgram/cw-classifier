@@ -21,7 +21,7 @@ rather than guessing.
 
 ## on-page-sexual-violence
 
-**Definition:** A sexual assault is depicted in scene, as it happens, from any point of view. This includes BDSM without a safeword where consent is not described in any way.
+**Definition:** A sexual assault is depicted in scene, as it happens, from any point of view.
 
 **Does not qualify:** Assault referenced in backstory, disclosed in
 dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'

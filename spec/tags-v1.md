@@ -1,6 +1,12 @@
 # Content warning tags, v1
 Last updated: 2026-09-09_
 
+**Content note:** This file defines categories for sexual assault,
+self-harm, child abuse, suicide, eating disorders, and graphic
+violence, and includes short invented example sentences illustrating
+each. Written for classification purposes, not narrative effect, but
+the subject matter is explicit by design.
+
 Each tag has: a definition, a boundary case that does NOT qualify,
 and what evidence settles it.
 

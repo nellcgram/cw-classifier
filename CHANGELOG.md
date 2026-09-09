@@ -16,6 +16,7 @@
 - Fixed fragment sentences in "Settled by" lines (missing predicate
   after review-site list was added).
 - Typo fixes: "Menion" → "Mention," stray quote mark.
+- Added on-page vs referenced tag interaction rule to explain choices.
 
 ## 2026-09-08
 - Initial tag list, 11 categories.

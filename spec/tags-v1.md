@@ -5,8 +5,8 @@ and what evidence settles it.
 
 ## Tag interaction rules
 
-Tags are not mutually exclusive. A scene can carry more than one tag,
-and applying one does not rule out another.
+Tags are mutually exclusive. A scene can carry more than one tag,
+but applying one may rule out another.
 
 **explicit-sex and on-page-sexual-violence** are not the same axis and do not apply to the same scene:
 
@@ -66,7 +66,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Yelling that is not physical. Physical abuse mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -76,7 +76,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Yelling at the animal. Physical harm of animal mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -86,7 +86,8 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Graphic violence mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -96,7 +97,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Suicidal ideation, meaning thoughts of suicide. Suicide or suicidal ideation mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -106,7 +107,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Eating disorder mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -116,7 +117,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Pregnancy loss (either miscarriage or stillbirth) mentioned in backstory, disclosed in dialogue, or implied by scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
@@ -126,6 +127,6 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Sex referenced in backstory, disclosed in dialogue, or implied by a scene break.
 
-**Settled by:** The book text. Review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
+**Settled by:** The book text or review-site mentions such as Goodreads, Reddit, Storygraph, Does the Dog Die.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine

@@ -46,7 +46,7 @@ dialogue, or implied by a scene break. Those are `referenced-sexual-violence.'
 
 **Does not qualify:** Menion of past self-harm in backstory, disclosed in dialogue, or implied by scene break. Those are 'referenced-self-harm.'
 
-**Settled by:** The book text or tags on Goodreads or other review sites.
+**Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 

@@ -16,6 +16,15 @@ Most tags can co-occur in one scene. Tags for explicit-sex and on-page-sexual-vi
 
 For tags without an on-page versus referenced category, the design decision is for violence, harm, and loss whether on page or referenced. This is made for a reader specifically sensitive to nuance in instances of sexual violence.
 
+## When book text isn't available
+
+Four tags (on-page-sexual-violence, referenced-sexual-violence, on-page-self-harm, referenced-self-harm) require the book text. Review sites don't distinguish depicted between referenced and described in detail, and that distinction is the reason these tags exist. Without the text, mark these 'cannot-determine.'
+
+The remaining seven tags may be marked confirmed from a specific, named review-site mention (e.g., a reader explicitly noting "on-page animal death"), since these tags have no on-page/referenced split for
+a review site to blur. A vague or generic content warning ("dark themes," "heavy") does not qualify. Mark 'cannot-determine' instead, and name what would settle it.
+
+Never substitute the model's general knowledge of the book, unsourced, for either the text or a named review-site mention.
+
 **explicit-sex and on-page-sexual-violence** are not the same axis and do not apply to the same scene:
 
 - Consensual sexual activity, depicted → explicit-sex only

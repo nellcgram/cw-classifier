@@ -38,6 +38,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+**Example:** "Her underwear was down now and he had pinned her to the bed."
+
 ## referenced-sexual-violence
 
 **Definition:** A sexual assault referenced as happening in the past to any character.
@@ -47,6 +49,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "'I was molested by my coach as a child,' she said."
 
 ## on-page-self-harm
 
@@ -58,6 +62,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+**Example:** She pressed the blade to her arm.
+
 ## referenced-self-harm
 
 **Definition:** Self-harm of any kind (cutting, scratching, burning, pinching, et cetera) mentioned in backstory, disclosed in dialogue, or implied by scene break.
@@ -67,6 +73,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "She used to scratch her wrists with a safety pin as a teenager."
 
 ## child-harm
 
@@ -78,6 +86,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+**Example:** "Her aunt hit her across the face."
+
 ## animal-harm
 
 **Definition:** Physical harm of an animal depicted in scene, as it happens, from any point of view.
@@ -87,6 +97,8 @@ dialogue, or implied by a scene break. Those are 'referenced-sexual-violence.'
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "He kicked the dog and she whimpered, cowering."
 
 ## graphic-violence
 
@@ -98,6 +110,8 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "His fist caught her jaw and she felt the tooth crack." 
 
 ## suicide
 
@@ -111,6 +125,8 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+**Example:** "He laid out the pills and began to swallow them in handfuls."
+
 ## eating-disorder
 
 **Definition:** Eating disordered behaviors (starving self, counting calories, weighing self, bingeing, throwing up food) depicted in scene, as it happens, from any point of view.
@@ -120,6 +136,8 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "If she skipped lunch and dinner she would make her goal weight."
 
 ## pregnancy-loss
 
@@ -131,6 +149,8 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
 
+**Example:** "She had begun to bleed between her legs and she understood what that meant."
+
 ## explicit-sex
 
 **Definition:** Oral, anal, or vaginal sex or other sexual activity depicted in scene, as it happens, from any point of view.
@@ -140,3 +160,6 @@ detail (described injury, pain, or  method) instead of stated as a fact. Violenc
 **Settled by:** The book text. Review-site mentions do not distinguish depicted from referenced.
 
 **Confidence markers:** confirmed / reported / not found / cannot determine
+
+**Example:** "He led her to the bed, and neither of them spoke again
+until morning." → explicit-sex, confirmed.

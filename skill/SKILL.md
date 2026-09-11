@@ -7,24 +7,28 @@ description: Use when the user asks what potentially distressing content
 ---
 
 ## Tag vocabulary
-Use only tags defined in tag-symmetry.md
+Use only tags defined in ../findings/tag-symmetry.md
 
 ## Confidence markers
 
 - Confirmed - Confirmed in book
 - Reported - Not confirmed it exists but reported in other source
 - Not found - Sources were checked; not found in book or reported
-- Cannot determine - The dinstinction needs the text
+- Cannot determine - The distinction needs the text
 
 ## Procedure
-Name the title and author, apply the tag list, assign a confidence marker per tag, state what settled each one.
-- Format:
-Title, Author.
+Name the title and author, apply the tag list, assign a confidence marker per tag, state what settled each one. If there are no applicable tags or "what settled each tag" category, do not include these categories in the entry.
+
+## Format
+Title, Author
 Tags: comma-separated (confidence marker)
 What settled each tag:
 
 ## Output format
 
-Wuthering Heights, Emily Bronte
+Example Title, Example Author
+Tags: [Tag A] (Confirmed), [Tag B] (Reported)
+What settled each tag: [Tag A] found on-page at the cited passage. [Tag B] not found in the text; reported in reader/reviewer discussion but unconfirmed.
 
-Output format — write it out as a filled example, not a description. A model follows a sample more reliably than a spec of a sample.
+Pride and Prejudice, Jane Austen
+Tags: None

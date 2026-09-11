@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-09-10
+- Added `.github/pull_request_template.md` (what changed, why, evidence, risk).
+- Added `texts/sources.md` and the plain-text UTF-8 editions of Wuthering Heights,
+  Dracula, and Pride and Prejudice from Project Gutenberg. Frankenstein is added
+  later, alongside the maintainer docs it's meant to test.
+- Fixed skill/SKILL.md: broken tag-vocabulary path, a typo, a doubled space, an
+  inconsistent title-line format between the Format and Output format sections,
+  and added a worked example with tags and confidence markers (the prior example
+  only covered the no-tags case).
+
 ## 2026-09-09
 - Added "Tag interaction rules" section: explicit-sex and
   on-page-sexual-violence are mutually exclusive, not additive.

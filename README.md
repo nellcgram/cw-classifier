@@ -17,7 +17,11 @@ Week 1 — repo scaffolding. No results yet.
 ## Layout
 - `spec/` — the classification spec, versioned
 - `skill/` — SKILL.md
+- `texts/` — source texts and `sources.md`
 - `evals/cases/` — trigger sets and test cases
 - `evals/runs/` — graded runs, one file each
 - `scripts/` — grading and tally scripts
 - `findings/` — defects found in the spec, rubric, or harness
+- `.github/pull_request_template.md` — what changed, why, evidence, risk
+
+Folders beyond these appear as later stages of the project need them.
